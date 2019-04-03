@@ -1,0 +1,5 @@
+rule-id,rule-name,rule-action,rule-type,schema-name,table-name
+1,include,selection,ops,a,s-name
+2,include,selection,ops,b,s-name
+3,include,selection,ops,c,s-name
+4,include,selection,ops,d,s-name
